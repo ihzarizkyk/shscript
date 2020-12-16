@@ -13,3 +13,7 @@ php -v
 echo "Versi R :"
 
 R --version
+
+echo "Versi Assembly :"
+
+nasm -v
